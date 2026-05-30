@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "mr_yggdrasil_structure",
+  "version": "6.0.0",
+  "name": "Yggdrasil",
+  "description": "",
+  "license": "LicenseRef-Datapack",
+  "environment": "*",
+  "depends": {
+    "fabric-resource-loader-v0": "*"
+  },
+  "authors": [
+    "Hardel",
+    "Voxel Teams"
+  ]
+}
